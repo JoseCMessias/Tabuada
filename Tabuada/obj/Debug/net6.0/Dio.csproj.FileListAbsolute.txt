@@ -1,0 +1,15 @@
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\bin\Debug\net6.0\Dio.exe
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\bin\Debug\net6.0\Dio.deps.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\bin\Debug\net6.0\Dio.runtimeconfig.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\bin\Debug\net6.0\Dio.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\bin\Debug\net6.0\Dio.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\Dio.csproj.AssemblyReference.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\Dio.AssemblyInfoInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\Dio.AssemblyInfo.cs
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\Dio.csproj.CoreCompileInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\Dio.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\refint\Dio.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\Dio.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\Dio.genruntimeconfig.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Dio\Dio\obj\Debug\net6.0\ref\Dio.dll
